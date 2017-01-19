@@ -1,1 +1,1 @@
-# paws-user
+# pawzzle-user-service
